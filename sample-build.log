@@ -1,0 +1,17 @@
+2026-04-14 11:37:45 - Sample TypeScript Errors and Warnings Log
+
+1. Error TS2339: Property 'foo' does not exist on type 'Bar'.
+
+2. Error TS2554: Expected 1 arguments, but got 2.
+
+3. Error TS2724: The 'this' context of type 'void' is not assignable to method's 'this' of type 'MyClass'.
+
+4. Error TS7053: Element implicitly has an 'any' type because expression of type 'string' can't be used to index type 'MyType'.
+
+5. Error TS2349: This expression is not callable.
+
+Warnings:
+
+- Angular Warning: The 'NgModule' class is not decorated with '@NgModule'.
+- Spartacus Warning: Missing required configurations for Spartacus module.
+
